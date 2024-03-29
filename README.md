@@ -23,4 +23,33 @@
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
 
-##I am noob
+## I am noob
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+> Open this page at [https://jon8586.github.io/calculator_microbit/](https://jon8586.github.io/calculator_microbit/)
+
+## used as extension
+
+This repository can be added to MakeCode as a **plugin**.
+
+* Open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* Click on **New Project**
+* Click **Extensions** under the gear icon menu
+* Search **https://github.com/jon8586/calculator_microbit** and import
+
+## Edit this project
+
+Edit this repository in MakeCode.
+
+* Open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* Click **Import**, then **Import URL**
+* Paste **https://github.com/jon8586/calculator_microbit** and click Import
+
+#### Metadata (for search, rendering)
+
+* for PXT/microbit
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github. owner_name }}/{{ site.github.repository_name }}");</script>
+
+## I am noob
+## translate by google translate :)
